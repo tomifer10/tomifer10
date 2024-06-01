@@ -19,7 +19,7 @@ You can find me 👓:
 - Master in Software Development - Assembler Institute of Technology | Barcelona
 
 ## Tech Skills 🖥️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,vscode,nodejs,mongodb,prisma,postgres,postman,vite,figma,git,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,vscode,nodejs,php,mysql,mongodb,prisma,postgres,postman,vite,figma,git,github&perline=10)](https://skillicons.dev)
 
 ## Let's talk! 🤝
 Email 📧 : fernandeztomasig@gmail.com
